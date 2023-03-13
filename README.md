@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajwal</h1>
+<h1 align="center">Hi 👋, I'm Pramish</h1>
 
 <!--
 **Pramishkarkee/pramishkarkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
